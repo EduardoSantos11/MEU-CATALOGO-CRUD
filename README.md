@@ -9,8 +9,8 @@ Este repositório contém o projeto final para a disciplina de Frameworks Front-
 | **Nome Completo** | Eduardo Pereira Soares Santos Pessoa |
 | **Matrícula** | 01809366 |
 | **Disciplina** | Frameworks Front-End |
-| **Professor** | [cite_start]Renato Freire [cite: 2] |
-| **Instituição** | [cite_start]Uninassau Natal/RN [cite: 2] |
+| **Professor** | Renato Freire  |
+| **Instituição** | Uninassau Natal/RN  |
 
 ---
 
