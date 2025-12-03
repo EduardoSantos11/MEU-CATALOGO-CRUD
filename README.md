@@ -41,3 +41,8 @@ O sistema permite as seguintes operações, essenciais para o escopo do projeto:
 ### Estrutura Sugerida
 
 [cite_start]A estrutura segue o padrão de organização com Componentes e Páginas, conforme sugerido pelo professor[cite: 20]:
+
+video de apresentação.
+
+https://github.com/user-attachments/assets/f17e257b-2c14-476a-877f-031dd21eac95
+
